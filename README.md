@@ -35,7 +35,7 @@ helping developers and businesses **build faster, smarter, and with style** 🚀
   <a href="https://vietstrix.com" target="_blank">
     <img src="https://github.com/protam113/vietstrix_fe/blob/main/public/website-5793.png?raw=true" height="30" width="40" />
   </a>
-  <a href="https://twitter.com/vietstrix" target="_blank">
+  <a href="https://x.com/Vietstrix" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
   </a>
   <a href="https://www.linkedin.com/company/vietstrix" target="_blank">
