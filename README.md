@@ -16,7 +16,7 @@
   </a>
 </p>
 
-**I’m Hoang Pham <a href="https://github.com/protam113" target="_blank">(@protamm113)</a>** – a fullstack developer and **co-founder of [Vietstrix](https://github.com/vietstrixvn)**.  
+**I’m Hoang Pham <a href="https://github.com/protam113" target="_blank">(@protam113)</a>** – a fullstack developer and **co-founder of [Vietstrix](https://github.com/vietstrixvn)**.  
 Together with my team, we are passionate about building and delivering:
 
 - ⚡ **Modern web and cloud applications**  
